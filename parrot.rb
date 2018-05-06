@@ -1,5 +1,4 @@
-def parrot(phrase, noise="Squawk")
-  parrot(noise)
+def parrot(phrase, "Squawk!")
   puts "#{phrase}"
   phrase
 end
