@@ -1,4 +1,3 @@
-def parrot(phrase}
+def parrot(phrase)
   puts "#{phrase}"
-end
 end
